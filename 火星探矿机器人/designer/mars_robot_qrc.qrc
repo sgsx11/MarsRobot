@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="image">
+    <file>image/repository-removebg-preview.png</file>
+    <file>image/avator2.png</file>
+    <file>image/rock-removebg-preview.png</file>
+    <file>image/search-removebg-preview.png</file>
+    <file>image/valuableRock-removebg-preview.png</file>
+    <file>image/work-removebg-preview.png</file>
+    <file>image/rock.jpeg</file>
+    <file>image/valuableRock.jpeg</file>
+    <file>image/search.jpeg</file>
+    <file>image/work.jpeg</file>
+    <file>image/chessboard.png</file>
+    <file>image/bg.jpeg</file>
+  </qresource>
+</RCC>
